@@ -15,6 +15,8 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [ensfairy.xyz](https://ensfairy.xyz/) - A site to gift ENS names to any address.
 - [eth.limo](https://eth.limo/) - Create decentralized website.
 - [ens tools](https://tools.ens.domains/) - helpful tools to interact with ENS names.
+- [eth.cd](https://eth.cd/) prebuilt ENS profiles.
+- [webhash.com](https://webhash.com/) No-code dwebsite builder.
 
 ## DAO Resources
 
