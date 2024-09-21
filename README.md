@@ -17,6 +17,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [ens tools](https://tools.ens.domains/) - helpful tools to interact with ENS names.
 - [eth.cd](https://eth.cd/) prebuilt ENS profiles.
 - [webhash.com](https://webhash.com/) No-code dwebsite builder.
+- [flashbots ENS Rescue](https://github.com/Arachnid/flashbots-ens-rescue) - Github repo that helps rescue ENS names using Flashbots.
 
 ## DAO Resources
 
