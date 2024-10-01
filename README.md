@@ -43,3 +43,15 @@ A list of awesome ENS-related resources. PRs welcomed!
 
 - [Support](https://chat.ens.domains/) on Discord
 - [Dev chat](https://t.me/+TJ_M02FbKwcyNjgx) on Telegram
+
+## Library Support
+
+Updated: October 1, 2024
+| Libary | Resolution | CCIP-Read | Normalization | Reviewed |
+|------------|:------------:|:------------:|:------------:|:------------:|
+| [ens-js](https://github.com/ensdomains/ensjs) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
+| [viem](https://viem.sh/) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
+| [ethers-js](https://github.com/ethers-io/ethers.js) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
+| [web3-py](https://github.com/ethers-io/ethers.js) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
+| [ethers-rs](https://github.com/gakonst/ethers-rs) | --- | --- | --- | --- |
+| [nethereum](https://github.com/Nethereum/Nethereum) | --- | --- | --- | --- |
