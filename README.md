@@ -54,5 +54,5 @@ Updated: October 1, 2024
 | [ethers-js](https://github.com/ethers-io/ethers.js) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
 | [web3-py](https://github.com/ethereum/web3.py) | 🟢 | 🔴 | 🟢 | 2024 - Oct |
 | [alloy-rs](https://github.com/alloy-rs) | --- | --- | --- | --- |
-| [ethers-rs](https://github.com/gakonst/ethers-rs) | --- | --- | --- | --- |
+| [ethers-rs](https://github.com/gakonst/ethers-rs) | 🟢 | 🟢 | 🔴 | 2024 - Oct |
 | [nethereum](https://github.com/Nethereum/Nethereum) | --- | --- | --- | --- |
