@@ -46,7 +46,6 @@ A list of awesome ENS-related resources. PRs welcomed!
 
 ## Library Support
 
-Updated: October 1, 2024
 | Libary | Resolution | CCIP-Read | Normalization | Reviewed |
 |------------|:------------:|:------------:|:------------:|:------------:|
 | [ens-js](https://github.com/ensdomains/ensjs) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
