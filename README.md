@@ -26,6 +26,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [Tally](https://www.tally.xyz/gov/ens) - Onchain voting.
 - [Voting Power](https://votingpower.xyz/) - Look up top delegates and their delegators.
 - [DAO wallet balances](https://www.enswallets.xyz/) - Info on ENS wallets.
+- [ENS On Chain Voting frontend](https://dao.ens.gregskril.com/) - Alternative front end to vote on ENS onchain proposals. 
 
 ## Service Providers
 
