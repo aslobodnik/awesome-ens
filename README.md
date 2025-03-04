@@ -6,6 +6,9 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [Registration App](https://app.ens.domains/)
 - [Official Docs](https://docs.ens.domains/)
 
+## Browsers
+- [Peersky Browser](https://peersky.p2plabs.xyz/) - Browse web3 without `http://` gateways with native ENS support (`ipns://vitalik.eth`)
+
 ## Ecosystem
 
 - [ccip.tools](https://ccip.tools/) - Deploy and manage Offchain Resolvers for your ENS names.
@@ -16,7 +19,6 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [eth.limo](https://eth.limo/) - Create decentralized website.
 - [ens tools](https://tools.ens.domains/) - helpful tools to interact with ENS names.
 - [eth.cd](https://eth.cd/) prebuilt ENS profiles.
-- [Peersky Browser](https://peersky.p2plabs.xyz/) - Browse web3 without `http://` gateways with native ENS support (`ipns://vitalik.eth`)
 - [webhash.com](https://webhash.com/) No-code dwebsite builder.
 - [flashbots ENS Rescue](https://github.com/Arachnid/flashbots-ens-rescue) - Github repo that helps rescue ENS names using Flashbots.
 
