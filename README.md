@@ -6,6 +6,9 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [Registration App](https://app.ens.domains/)
 - [Official Docs](https://docs.ens.domains/)
 
+## Browsers
+- [Peersky Browser](https://peersky.p2plabs.xyz/) - Browse web3 without `http://` gateways with native ENS support (`ipns://vitalik.eth`)
+
 ## Ecosystem
 
 - [ccip.tools](https://ccip.tools/) - Deploy and manage Offchain Resolvers for your ENS names.
