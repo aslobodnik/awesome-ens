@@ -21,6 +21,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [eth.cd](https://eth.cd/) prebuilt ENS profiles.
 - [webhash.com](https://webhash.com/) No-code dwebsite builder.
 - [flashbots ENS Rescue](https://github.com/Arachnid/flashbots-ens-rescue) - Github repo that helps rescue ENS names using Flashbots.
+- [enscribe.xyz](https://www.enscribe.xyz) - Deploy smart contracts with ENS names and tools for naming existing smart contracts.
 
 ## DAO Resources
 
@@ -59,3 +60,4 @@ A list of awesome ENS-related resources. PRs welcomed!
 | [alloy-rs](https://github.com/alloy-rs) | --- | --- | --- | --- |
 | [ethers-rs](https://github.com/gakonst/ethers-rs) | 🟢 | 🟢 | 🔴 | 2024 - Oct |
 | [nethereum](https://github.com/Nethereum/Nethereum) | --- | --- | --- | --- |
+| [Web3j](https://github.com/LFDT-web3j/web3j) | 🟢 | 🟢 | 🟢 | 2025 - Jan |
