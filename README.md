@@ -12,6 +12,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 ## Ecosystem
 
 - [ccip.tools](https://ccip.tools/) - Deploy and manage Offchain Resolvers for your ENS names.
+- [dapprank.eth](https://dapprank.eth.limo) - Benchmarks censorship resistance of dapps that use ENS names.
 - [ensdata.net](https://ensdata.net/) - Look up Ethereum Name Service text records for any address and get them back in convenient JSON format.
 - [ensideas.com](https://ensideas.com/) - A cached REST API endpoint for avatar, address, and name. The results are cached for 24 hours at Cloudflare's edge nodes.
 - [enstate](https://enstate.rs/) - A hosted ENS API allowing for easy access to ENS data. [Open source](https://github.com/v3xlabs/enstate).
