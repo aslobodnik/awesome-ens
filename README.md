@@ -24,6 +24,8 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [flashbots ENS Rescue](https://github.com/Arachnid/flashbots-ens-rescue) - Github repo that helps rescue ENS names using Flashbots.
 - [enscribe.xyz](https://www.enscribe.xyz) - Deploy smart contracts with ENS names and tools for naming existing smart contracts.
 - [ENSvolution](https://www.ensvolution.xyz) - Visualize the evolution of your ENS Name.
+- [NameStone](https://namestone.com/) - Gasless subdomain management and issuance.
+- [Wild Card Labs](https://wildcardlabs.xyz/index.html) - Crafting tools and platforms that make ENS names & records a breeze for everyone.
 
 ## DAO Resources
 
@@ -41,10 +43,9 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [eth.limo](https://eth.limo/)
 - [NameHash Labs](https://namehashlabs.org/)
 - [Namespace](https://www.namespace.tech/)
-- [NameStone](https://namestone.xyz/)
 - [Unruggable Labs](https://unruggable.com/)
-- unicorn.eth
-- [Wildcard Labs](https://wildcardlabs.xyz/index.html)
+- [zk.email](https://zk.email/)
+- [justaname.id](https://www.justaname.id/)
 
 ## Connect
 
