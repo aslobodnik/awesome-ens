@@ -47,10 +47,22 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [zk.email](https://zk.email/)
 - [justaname.id](https://www.justaname.id/)
 
+## 🐛 Bug Bounty
+- [Immunefi Bug Bounty](https://immunefi.com/bug-bounty/ens/information/) – As of Oct 1, $197,440.53 in active bounty funds.
+- [Bug Bounty Docs](https://docs.ens.domains/bugs/) – Official ENS documentation on bug bounties.
+
 ## Connect
 
 - [Support](https://chat.ens.domains/) on Discord
 - [Dev chat](https://t.me/+TJ_M02FbKwcyNjgx) on Telegram
+
+## 🎥 Cool Videos / Talks
+- [How ENS Works](https://www.youtube.com/watch?v=QL1QcfQnaiI) – Explainer by QuickNode.
+- [State of ENS](https://www.youtube.com/watch?v=Pta198KJTaw) – Talk by Nick Johnson at Devcon Bogotá.
+- [ENS to Perpetuity](https://www.youtube.com/watch?v=jeiTztEW0wg) – Discussion on ENS treasury and sustainability.
+- [Delegate ENS Tokens](https://www.youtube.com/watch?v=Vq2X6WgfhbE&list=PLF256tss692BNxa4OhSWSr9a969mZ9zD5) – Guide on how to delegate ENS tokens.
+- [Become ENS Delegate](https://www.youtube.com/watch?v=tUhN20FeQtM) – How to become an ENS delegate.
+
 
 ## Library Support
 
@@ -59,8 +71,8 @@ A list of awesome ENS-related resources. PRs welcomed!
 | [ens-js](https://github.com/ensdomains/ensjs) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
 | [viem](https://viem.sh/) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
 | [ethers-js](https://github.com/ethers-io/ethers.js) | 🟢 | 🟢 | 🟢 | 2024 - Oct |
-| [web3-py](https://github.com/ethereum/web3.py) | 🟢 | 🔴 | 🟢 | 2024 - Oct |
-| [alloy-rs](https://github.com/alloy-rs) | --- | --- | --- | --- |
+| [web3-py](https://github.com/ethereum/web3.py) | 🟢 | 🟢  | 🟢 | 2025 - Oct |
+| [alloy-rs](https://github.com/alloy-rs) | 🟢 | 🔴 | 🔴 | 2025 - Oct |
 | [ethers-rs](https://github.com/gakonst/ethers-rs) | 🟢 | 🟢 | 🔴 | 2024 - Oct |
 | [nethereum](https://github.com/Nethereum/Nethereum) | --- | --- | --- | --- |
 | [Web3j](https://github.com/LFDT-web3j/web3j) | 🟢 | 🟢 | 🟢 | 2025 - Jan |
