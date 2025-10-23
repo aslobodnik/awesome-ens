@@ -26,6 +26,8 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [ENSvolution](https://www.ensvolution.xyz) - Visualize the evolution of your ENS Name.
 - [NameStone](https://namestone.com/) - Gasless subdomain management and issuance.
 - [Wild Card Labs](https://wildcardlabs.xyz/index.html) - Crafting tools and platforms that make ENS names & records a breeze for everyone.
+- [3DNS](https://3dns.box/) – Tokenize and trade domains on-chain.
+- [ENSpro](https://enspro.xyz/) – Personal ENS subname management tool.
 
 ## DAO Resources
 
