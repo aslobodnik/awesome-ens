@@ -28,6 +28,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [Wild Card Labs](https://wildcardlabs.xyz/index.html) - Crafting tools and platforms that make ENS names & records a breeze for everyone.
 - [3DNS](https://3dns.box/) – Tokenize and trade domains on-chain.
 - [ENSpro](https://enspro.xyz/) – Personal ENS subname management tool.
+- [NameWhisper](https://namewhisper.ai/) - AI-powered ENS intelligence terminal: natural-language search across 3.5M+ indexed names, comparable-sales valuations, portfolio tracking, expiry calendar, and marketplace trading. Includes an [open-source MCP server](https://github.com/eggybug42069/namewhisper-mcp) for AI agents.
 
 ## DAO Resources
 
