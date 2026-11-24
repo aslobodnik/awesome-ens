@@ -24,6 +24,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 - [Wild Card Labs](https://wildcardlabs.xyz/index.html) - Crafting tools and platforms that make ENS names & records a breeze for everyone.
 - [3DNS](https://3dns.box/) – Tokenize and trade domains on-chain.
 - [ens.land](https://ens.land/) – Curated directory of ENS tools, wallets and marketplaces, with guides to buying, selling and checking .eth names.
+- [Fluidkey](https://www.fluidkey.com/) – ENS names that send each payment to a fresh private address.
 
 ## DAO Resources
 
