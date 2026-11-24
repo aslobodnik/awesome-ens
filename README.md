@@ -38,7 +38,7 @@ A list of awesome ENS-related resources. PRs welcomed!
 ## Service Providers
 
 - [Blockful](https://blockful.io/)
-- [Ethereum Follow Protocol](https://ethfollow.xyz/)
+- [Ethereum Follow Protocol](https://efp.app/)
 - [eth.limo](https://eth.limo/)
 - [Namespace](https://namespace.ninja/)
 - [Unruggable Labs](https://unruggable.com/)
